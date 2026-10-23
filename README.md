@@ -1,4 +1,7 @@
-<img src="assets/profile-header.svg" alt="Việt Phương — Artificial Intelligence student at FPT University, Can Tho. Computer vision, language systems and practical software." width="100%" />
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/profile-header-mobile.svg" />
+  <img src="assets/profile-header.svg" alt="Việt Phương — Artificial Intelligence student at FPT University, Can Tho. Computer vision, language systems and practical software." width="100%" />
+</picture>
 
 <p align="center">
   <a href="#about">About</a> &nbsp; / &nbsp;
