@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="400" viewBox="0 0 1120 400" role="img" aria-labelledby="title description">
+  <title id="title">Nguyễn Việt Phương — Artificial Intelligence student</title>
+  <desc id="description">An editorial portfolio identity in ivory, ink and orange. FPT University, Can Tho. Computer vision, RAG and software.</desc>
+  <rect width="1120" height="400" fill="#F1EFE7"/>
+  <g font-family="Consolas, 'Liberation Mono', monospace" font-size="14" fill="#62665E" letter-spacing="1.8">
+    <text x="40" y="39">PERSONAL PORTFOLIO / APPLIED AI</text>
+    <text x="1080" y="39" text-anchor="end" fill="#21251F" font-size="22" font-weight="700">NVP.</text>
+  </g>
+  <path d="M40 63H1080M40 337H1080" stroke="#C5C7BC"/>
+  <path d="M1020 49H1080" stroke="#D7692D" stroke-width="3"/>
+  <g font-family="Georgia, 'Times New Roman', serif" fill="#20261F" letter-spacing="-4">
+    <text x="36" y="164" font-size="96">Nguyễn</text>
+    <text x="36" y="274" font-size="104">Việt Phương</text>
+  </g>
+  <path d="M759 95V302" stroke="#C5C7BC"/>
+  <g font-family="'Segoe UI', Arial, sans-serif" fill="#20261F" font-size="29" font-weight="600" letter-spacing="-.5">
+    <text x="801" y="151">ARTIFICIAL</text>
+    <text x="801" y="189">INTELLIGENCE</text>
+  </g>
+  <text x="802" y="224" font-family="Consolas, 'Liberation Mono', monospace" fill="#62665E" font-size="15" letter-spacing="1.6">STUDENT / FPT</text>
+  <path d="M803 284H857V254H911" fill="none" stroke="#D7692D" stroke-width="3"/>
+  <path d="M898 242L911 254L898 266" fill="none" stroke="#D7692D" stroke-width="3"/>
+  <g font-family="Consolas, 'Liberation Mono', monospace" font-size="14" letter-spacing="1.1">
+    <text x="40" y="372" fill="#20261F">FPT UNIVERSITY / CAN THO</text>
+    <text x="1080" y="372" text-anchor="end" fill="#62665E">COMPUTER VISION / RAG / SOFTWARE</text>
+  </g>
+</svg>
