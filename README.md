@@ -1,6 +1,6 @@
 <picture>
-  <source media="(max-width: 600px)" srcset="assets/identity-mobile.svg" />
-  <img src="assets/identity-desktop.svg" alt="Nguyễn Việt Phương — Artificial Intelligence student at FPT University, Can Tho. Computer vision, RAG and applied software." width="100%" />
+  <source media="(max-width: 600px)" srcset="assets/identity-mobile.svg?v=3" />
+  <img src="assets/identity-desktop.svg?v=3" alt="Nguyễn Việt Phương — Artificial Intelligence student at FPT University, Can Tho. Computer vision, RAG and applied software." width="100%" />
 </picture>
 
 <p align="center">
@@ -38,10 +38,19 @@ Phone and phone-use detection across images, video and live cameras, with a Reac
 `YOLO` `Flask` `React + TypeScript`<br>
 **Inside:** latest-frame workers, camera sessions and asynchronous alerts.
 
-### Further exploration
+### 04 / [PigCounter](https://github.com/VPhunggggg/pigcounter-yolo-tracking)
 
-- **[PigCounter](https://github.com/VPhunggggg/pigcounter-yolo-tracking)** — YOLO + ByteTrack, directional gate-crossing events, per-track state and CSV reporting.
-- **[Chess Edition](https://github.com/VPhunggggg/chess-edition-ai)** — Pygame, Negamax/alpha-beta search, iterative deepening and background AI workers.
+Pig counting from video or RTSP, with directional gate-crossing events, batch counts and downloadable CSV reports.
+
+`YOLO + ByteTrack` `Video / RTSP` `Event processing`<br>
+**Inside:** geometric validation, per-track state and bidirectional counting.
+
+### 05 / [Chess Edition](https://github.com/VPhunggggg/chess-edition-ai)
+
+An offline Pygame chess game with a custom search engine, difficulty levels, move hints and match history.
+
+`Pygame` `Negamax + Alpha-beta` `Search algorithms`<br>
+**Inside:** iterative deepening, move ordering and background AI workers.
 
 ## Toolkit
 
