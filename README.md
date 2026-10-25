@@ -24,6 +24,8 @@ A multimodal dermatology kiosk connecting computer vision, medical retrieval, Vi
 `Computer vision` `RAG` `Voice interaction`<br>
 **Inside:** orchestration across vision, language and the kiosk interface.
 
+[Watch the ThinkMed product demo ↗](https://www.youtube.com/watch?v=9Z_5Q1DSq1U)
+
 ### 02 / [SheetReason](https://github.com/VPhunggggg/sheetreason-excel-qa)
 
 Excel question answering backed by executable Python evidence, candidate voting and answer-format validation.
